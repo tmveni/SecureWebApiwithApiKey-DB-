@@ -1,0 +1,13 @@
+D:\Monica\Projects\Authorization\Authorization\bin\Debug\netcoreapp2.1\AuthorizationwithApikey.deps.json
+D:\Monica\Projects\Authorization\Authorization\bin\Debug\netcoreapp2.1\AuthorizationwithApikey.runtimeconfig.json
+D:\Monica\Projects\Authorization\Authorization\bin\Debug\netcoreapp2.1\AuthorizationwithApikey.runtimeconfig.dev.json
+D:\Monica\Projects\Authorization\Authorization\bin\Debug\netcoreapp2.1\AuthorizationwithApikey.dll
+D:\Monica\Projects\Authorization\Authorization\bin\Debug\netcoreapp2.1\AuthorizationwithApikey.pdb
+D:\Monica\Projects\Authorization\Authorization\obj\Debug\netcoreapp2.1\AuthorizationwithApikey.csproj.CoreCompileInputs.cache
+D:\Monica\Projects\Authorization\Authorization\obj\Debug\netcoreapp2.1\AuthorizationwithApikey.RazorAssemblyInfo.cache
+D:\Monica\Projects\Authorization\Authorization\obj\Debug\netcoreapp2.1\AuthorizationwithApikey.RazorAssemblyInfo.cs
+D:\Monica\Projects\Authorization\Authorization\obj\Debug\netcoreapp2.1\AuthorizationwithApikey.AssemblyInfoInputs.cache
+D:\Monica\Projects\Authorization\Authorization\obj\Debug\netcoreapp2.1\AuthorizationwithApikey.AssemblyInfo.cs
+D:\Monica\Projects\Authorization\Authorization\obj\Debug\netcoreapp2.1\AuthorizationwithApikey.RazorTargetAssemblyInfo.cache
+D:\Monica\Projects\Authorization\Authorization\obj\Debug\netcoreapp2.1\AuthorizationwithApikey.dll
+D:\Monica\Projects\Authorization\Authorization\obj\Debug\netcoreapp2.1\AuthorizationwithApikey.pdb
